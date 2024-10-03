@@ -1,0 +1,15 @@
+.product1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    background-size: cover;
+    height: 220px;
+}
+.product2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    background-size: cover;
+    height: 220px;
+}
+.button {
+    border-radius: 18px;
+    color: #ff9f00;
+    font-weight: 600;
+}

@@ -1,0 +1,33 @@
+.container {
+    background-color: #f5f7fa;
+}
+.deals-box1 {
+    gap: 16px;
+    margin-bottom: 8px;
+}
+.deals-box1 img {
+    width:100%;
+    height: 180px;
+    border-radius: 18px;
+}
+.deals-box2 img {
+    border-radius: 18px;
+}
+.deals-box3 {
+    gap: 16px;
+}
+.deals-box3 img {
+    width:100%;
+    height: 150px;
+    border-radius: 18px;
+}
+.link a,svg {
+    color: #ff9f00;
+}
+.offers-container {
+    background-image: linear-gradient(to right,#f49541,#dd5d97,#ad2167);
+}
+.offershead {
+    color: #ad2167;
+    font-weight: bold;
+}

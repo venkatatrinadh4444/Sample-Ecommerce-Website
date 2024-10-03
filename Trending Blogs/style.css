@@ -1,0 +1,10 @@
+.trendinghead ,trending-box h4{
+    color: #183b56;
+}
+.trending-box h6,p {
+    color: #959ead;
+}
+.link,svg {
+    color: #ff9f00;
+    font-weight: 600;
+}
